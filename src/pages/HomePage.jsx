@@ -9,7 +9,7 @@ export default function HomePage() {
         <h1>Home</h1>
       </header>
       <main>
-        <p>hej</p>
+        <p>hej igen</p>
 
         <article>
           <h2>Displaying images in React</h2>
